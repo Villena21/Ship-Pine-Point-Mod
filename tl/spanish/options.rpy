@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2024-12-12 19:26
+
+translate spanish strings:
+
+    # game/options.rpy:15
+    old "Pine Point: Insomniac"
+    new "Pine Point: Insomniac"
+
+    # game/options.rpy:32
+    old "{font=roboto_condensed_bold.ttf}{i}Pine Point: Insomniac{/} is a short, surreal slice-of-life visual novel following Nil, a severly sleep-deprived slacker, as he tries to survive the day at work with his best friend, Dimitri.{para}This game was created as a proof-of-concept for {i}Pine Point{/}.{para}Note that the events that occur in this game may not remain canon if the series continues.\n\nSupport the creator & series via: {a=https://www.patreon.com/zeddyzi}Patreon{/a} | {a=https://zeddyzi-shop.fourthwall.com/en-cad/}Merch{/a} | {a=https://www.youtube.com/channel/UCVDxozAfpwnZuySPPLLMuGQ}YouTube{/a}{para}{a=https://aylins.carrd.co}Aylin Scherer - Deutsch{/a}{para}{a=https://nhungtran.carrd.co/}Nhung Tran - Tieng Viet{/}{para}{a=https://thisisstefaniafiocchi.carrd.co/}Stefanía Fiocchi - Español{/}\n\n{u}DISCLAIMER:{/u} All characters, settings and events are fictional works.{para}Any resemblance to real life events/people and/or other media is unintentional or coincidental.\n\n{color=#ff0}WARNING{/color}{para}- Contains some eye strain and swearing{para}- Mentions of drug use, death, and emetophobia{/font}"
+    new "{font=roboto_condensed_bold.ttf}{i}Pine Point: Insomniac{/} es una breve novela visual surrealista en la que su protagonista, Nil, un holgazán con problemas para dormir, intentará sobrevivir a su día laboral junto a su mejor amigo, Dimitri.{para}Este juego ha sido creado como prueba de concepto para {i}Pine Point{/}.{para}Es importante mencionar que los eventos de este juego podrían no ser el canon en una posible continuación de la serie.\n\nPuedes apoyar al creador y a la serie en {a=https://www.patreon.com/zeddyzi}Patreon{/a} | {a=https://zeddyzi-shop.fourthwall.com/en-cad/}Merch{/a} | {a=https://www.youtube.com/channel/UCVDxozAfpwnZuySPPLLMuGQ}YouTube{/a}{para}{a=https://aylins.carrd.co}Aylin Scherer - Deutsch{/a}{para}{a=https://nhungtran.carrd.co/}Nhung Tran - Tieng Viet{/}{para}{a=https://thisisstefaniafiocchi.carrd.co/}Stefanía Fiocchi - Español{/}\n\n{u}LEGAL:{/u} Todos los personajes, ubicaciones y eventos son ficticios. Cualquier parecido con la realidad\nes pura coincidencia.\n\n{color=#ff0}ADVERTENCIA{/color}{para}- Contiene efectos visuales intensos y lenguaje vulgar{para}- Menciones de consumo de drogas, muerte y emetofobia​ {/font}"
+

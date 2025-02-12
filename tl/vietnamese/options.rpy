@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2024-12-12 19:27
+
+translate vietnamese strings:
+
+    # game/options.rpy:15
+    old "Pine Point: Insomniac"
+    new "Pine Point: Insomniac"
+
+    # game/options.rpy:32
+    old "{font=roboto_condensed_bold.ttf}{i}Pine Point: Insomniac{/} is a short, surreal slice-of-life visual novel following Nil, a severly sleep-deprived slacker, as he tries to survive the day at work with his best friend, Dimitri.{para}This game was created as a proof-of-concept for {i}Pine Point{/}.{para}Note that the events that occur in this game may not remain canon if the series continues.\n\nSupport the creator & series via: {a=https://www.patreon.com/zeddyzi}Patreon{/a} | {a=https://zeddyzi-shop.fourthwall.com/en-cad/}Merch{/a} | {a=https://www.youtube.com/channel/UCVDxozAfpwnZuySPPLLMuGQ}YouTube{/a}{para}{a=https://aylins.carrd.co}Aylin Scherer - Deutsch{/a}{para}{a=https://nhungtran.carrd.co/}Nhung Tran - Tieng Viet{/}{para}{a=https://thisisstefaniafiocchi.carrd.co/}Stefanía Fiocchi - Español{/}\n\n{u}DISCLAIMER:{/u} All characters, settings and events are fictional works.{para}Any resemblance to real life events/people and/or other media is unintentional or coincidental.\n\n{color=#ff0}WARNING{/color}{para}- Contains some eye strain and swearing{para}- Mentions of drug use, death, and emetophobia{/font}"
+    new "{font=roboto_condensed_bold.ttf}{i}Pine Point: Insomniac{/} là visual novel ngắn thuộc thể loại đời sống, siêu thực theo chân nhân vật Nil, một kẻ lười nhác mắc chứng thiếu ngủ trầm trọng trong nỗ lực sống sót qua ngày làm việc cùng với bạn thân mình, Dimitri.{para}Game này được tạo ra để làm bằng chứng cho ý tưởng của {i}Pine Point{/}.{para}Lưu ý rằng các sự kiện trong game có thể không được giữ chính thức nếu series được tiếp tục.\n\nỦng hộ nhà sáng tạo và series qua: {a=https://www.patreon.com/zeddyzi}Patreon{/a} | {a=https://zeddyzi-shop.fourthwall.com/en-cad/}Merch{/a} | {a=https://www.youtube.com/channel/UCVDxozAfpwnZuySPPLLMuGQ}YouTube{/a}{para}{a=https://aylins.carrd.co}Aylin Scherer - Deutsch{/a}{para}{a=https://nhungtran.carrd.co/}Nhung Tran - Tieng Viet{/}{para}{a=https://thisisstefaniafiocchi.carrd.co/}Stefanía Fiocchi - Español{/}\n\n{u}DISCLAIMER:{/u} Tất cả nhân vật, bối cảnh và sự kiện đều là tác phẩm hư cấu. Bất cứ sự tương đồng nào với sự kiện ở đời thực/con người và/hoặc các phương tiện khác đều là vô ý hoặc trùng hợp.\n\n{color=#ff0}CẢNH BÁO{/color}{para}- Có chứa hình ảnh gây đau mắt và các từ chửi thề{para}- Đề cập đến việc sử dụng thuốc, cái chết và chứng sợ nôn {/font}"
+
