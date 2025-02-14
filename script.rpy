@@ -159,17 +159,6 @@
             jump two
         "Shit like that is never good as you remember.":
             jump three
-        "Huh?":
-            jump modded_1
-
-    label modded_1:
-        show Dimitrijob talk
-        d "You know, the show we used to watch as kids"
-        show Niljob Talk
-        n "Oh yeah my minded press delete since i was 69 years old"
-        show Dimitrijob Talk
-        d "Nice"
-        jump four
 
     label one:
         show niljob talkclose:
