@@ -2,8 +2,13 @@
     stop music
 
 #Act A
-    play music ("shadow - warmth.mp3") fadein 0.5
+    show a00 at top
+    $ renpy.pause (3)
+    text "Oh shit wrong image"
+    hide A00
+    $ renpy.pause()
     scene bg black
+    play music ("shadow - warmth.mp3") fadein 0.5
 
     show a01 at top
     $ renpy.pause ()   # will wait untill player click
