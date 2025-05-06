@@ -111,13 +111,13 @@
     show romeo
     with moveinright
     r "But not too early for prep work!"
-    r "Dimitri, work bitch, teach Nil the sauce station today, will ya?"
+    r "Dimitri, teach Nil the sauce station today, will ya?"
     hide romeo
     with moveoutright
 
     show dimitrijob talk at right
     d "Sure thing, boss."
-    d "Okay, Marco (POLO) also says you make the thin crust pizzas too thick and the thick crust ones too thin, so I gotta run you through everything again on top of teaching you the sauce station."
+    d "Okay, Marco also says you make the thin crust pizzas too thick and the thick crust ones too thin, so I gotta run you through everything again on top of teaching you the sauce station."
     show dimitrijob talk at right:
         xzoom -1.0
     d "Oh, and they're adding some gimmicky summertime promo so we gotta learn how to make that monstrosity too."
@@ -135,7 +135,6 @@
     text "Normally, you wouldn't give a rat's ass about a minimum wage job and would much rather play hooky, but this time you get to work with Dimitri."
     text "You don't want to disappoint your best friend."
     text "He did help land you this job, after all."
-    text " Also you're gay as fuck"
     hide bkitchen
     hide dimitrijob
     hide niljob
@@ -160,30 +159,13 @@
             jump two
         "Shit like that is never good as you remember.":
             jump three
-        "No I was stalking you":
-            jump meme_shit
-
-    label meme_shit:
-        hide dimitrijob talkclose
-        show dimitrijob sincere
-    d   "Dude WTF"
-        hide niljob talk
-        show NilJob Sincere
-    n   "Yeah man I like you"
-    d   "Dude"
-        hide dimitrijob sincere
-        show DimitriJob Laugh
-    d   "I like you too"
-        hide NilJob Sincere
-        show NilJob Paranoid
-    n   "ª"
 
     label one:
         show niljob talkclose:
             pos (0.2, 1.0) anchor (0.5, 1.0)        
         show dimitrijob talk at right
         d "Haha, maybe."
-        n "I showed it to my siblings and I swear to God I never saw them blink, their eyes were so glued to the screen."
+        d "I showed it to my siblings and I swear to God I never saw them blink, their eyes were so glued to the screen."
         d "Reminds me of when we watched Snailman for the first time."
         show dimitrijob talkclose
         jump four
